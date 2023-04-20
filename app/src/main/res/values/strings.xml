@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Thuchanh2_AmNhac</string>
+    <string-array name="category">
+        <item>Country</item>
+        <item>Blues</item>
+        <item>Rock</item>
+        <item>Pop</item>
+    </string-array>
+    <string-array name="album">
+        <item>Cho 1 tình yêu</item>
+        <item>Nỗi yêu bé dại</item>
+        <item>Cây lặng gió ngừng</item>
+    </string-array>
+</resources>
